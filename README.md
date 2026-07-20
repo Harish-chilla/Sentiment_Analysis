@@ -22,6 +22,10 @@ The main objectives of this project are to:
 ## Dataset
 
 The dataset contains **50,000 IMDB movie reviews**.
+The full dataset is not included in this repository because of its large file size.
+
+Download the dataset from:
+[Dataset Download Link](https://drive.google.com/file/d/1E3rtjnRHcS_NdwDKfvGEtINeNmDhGycn/view?usp=drive_link)
 
 Each review contains:
 
